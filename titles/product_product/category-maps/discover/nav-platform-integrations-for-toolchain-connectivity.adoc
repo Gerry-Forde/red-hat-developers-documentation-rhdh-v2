@@ -1,0 +1,7 @@
+:_mod-docs-content-type: MAP
+
+[id="platform-integrations-for-toolchain-connectivity_{context}"]
+= Platform integrations for toolchain connectivity
+:context: platform-integrations-for-toolchain-connectivity
+
+include::con-platform-integrations-for-toolchain-connectivity.adoc[leveloffset=+1]
